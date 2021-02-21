@@ -25,7 +25,7 @@ _ISTQB® Certified Tester Foundation Level_
 
 :beginner:_Still Learning_:
 
-![GitHub]("icons/github.png")
+![GitHub](icons/github.png)
 ![Docker]("icons/docker.png")
 ![GitLab]("icons/gitlab.png")
 ![Visual Studio Code]("icons/vscode.png")
