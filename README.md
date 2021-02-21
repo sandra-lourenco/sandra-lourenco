@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sandra :portugal:
+<!--### Hi there 👋, my name is Sandra :portugal:
 
 - :dart: I’m currently working on becoming a global tester
 - :book: I’m currently learning API Testing, Selenium, Postman, Jmeter
@@ -57,3 +57,4 @@ _ISTQB® Certified Tester Foundation Level_
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=sandra-lourenco.visitor-badge" alt="visitor badge"/>
 </p>
+-->
