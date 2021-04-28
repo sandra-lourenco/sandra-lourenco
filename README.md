@@ -1,13 +1,15 @@
 ### Hi there 👋, my name is Sandra :portugal:
 
 - :dart: I’m currently working on becoming a global tester
-- :book: I’m currently learning API Testing, Postman, Jmeter
+- :book: I’m currently learning Cypress
 
 ### :mortar_board:Certification:
 
 _ISTQB® Certified Tester Foundation Level_
 
 ### :computer: Courses:
+
+- **Descomplicando testes em API Rest** - API Rest, Swagger, Postman, JMeter, Maven, Java, JUnit, RestAssured, MountBank, Allure, SQL;
 
 - **Automation 180** - Ruby, Test Environment, Web Automation, API Automation, Capybara, BDD, RSpec, Cucumber, Allure Reports, HTTParty, DevOps, Docker, Jenkins;
 
