@@ -1,13 +1,15 @@
 ### Hi there 👋, my name is Sandra :portugal:
 
 - :dart: I’m currently working on becoming a global tester
-- :book: I’m currently learning Cypress
+- :book: I’m currently learning SQL, Jmeter and Java
 
 ### :mortar_board:Certification:
 
 _ISTQB® Certified Tester Foundation Level_
 
 ### :computer: Courses:
+
+- **Agilizei Bootcamp** - web and API testing with Cypress, GitHub Actions, Page Objects;
 
 - **Descomplicando testes em API Rest** - API Rest, Swagger, Postman, JMeter, Maven, Java, JUnit, RestAssured, MountBank, Allure, SQL;
 
@@ -21,7 +23,7 @@ _ISTQB® Certified Tester Foundation Level_
 
 ### :books: Studying
 
-**Descomplicando Testes de API Rest**
+**Programa de Testes e Qualidade de Software**
 
 ### 👩🏻‍💻 Languages and Tools:
 
