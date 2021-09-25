@@ -17,7 +17,7 @@ _ISTQB® Certified Tester Foundation Level_
 
 - **Global Tester Community** - SDLC, Agile Methodology, TDD, BDD, Testing Technics and Types, Limit Value Analysis, Equivalence Class and Decision Table, Test Pyramid, WEB Systems Architectures, GIT, HTTP Requisitions, API's, SOAP, REST, Automated API Tests with Java, RestAssured, JUnit 5, Gradle and Intellij, Interface Automated Tests with Selenium;
 
-- **API Testing** - Postman, Java, RestAssured and Junit 5;
+- **API Testing** - Postman, Java, RestAssured and JUnit 5;
 
 - **Software Testing Training for Beginners** - Identifying what to Test, Testing in different contexts, Software Architecture and Engineering, Reporting Bugs (Priority vs Severity), Functional Testing (Automated API Testing, Automated Web Testing with Selenium Webdriver), Non Functional Testing (API Testing with Jmeter), SQL;
 
