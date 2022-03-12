@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sandra :portugal:
 
 - :dart: I’m currently working on becoming a global tester
-- :book: I’m currently learning SQL, Jmeter and Java
+- :book: I’m currently learning Katalon and Javascript
 
 ### :mortar_board:Certification:
 
@@ -23,13 +23,13 @@ _ISTQB® Certified Tester Foundation Level_
 
 ### :books: Studying
 
-**Programa de Testes e Qualidade de Software**
+**WebdriverIO Beginner to Advanced E2E Framework (Web+API +DB)**
 
 ### 👩🏻‍💻 Languages and Tools:
 
 :beginner:_Still Learning_:
 
-<img width="20" height="20" src="icons/github.png" alt="GitHub"/><img width="20" height="20" src="icons/docker.png" alt="Docker"/><img width="20" height="20" src="icons/gitlab.png" alt="GitLab"/><img width="20" height="20" src="icons/vscode.png" alt="VSCode"/><img width="20" height="20" src="icons/html.png" alt="HTML"/><img width="20" height="20" src="icons/css.png" alt="CSS3"/><img width="20" height="20" src="icons/java.png" alt="Java"/><img width="20" height="20" src="icons/c.png" alt="C"/><img width="20" height="20" src="icons/selenium.png" alt="Selenium"/><img width="20" height="20" src="icons/robot.png" alt="Robot Framework"/><img width="20" height="20" src="icons/cypress.png" alt="Cypress"/><img width="20" height="20" src="icons/capybara.png" alt="Capybara"/><img width="20" height="20" src="icons/cucumber.png" alt="Cucumber"/><img width="20" height="20" src="icons/jenkins.png" alt="Jenkins"/><img width="20" height="20" src="icons/ruby.png" alt="Ruby"/><img width="20" height="20" src="icons/postman.png" alt="Postman"/><img width="60" height="20" src="icons/JMeter.png" alt="JMeter"/><img width="20" height="20" src="icons/Swagger.png" alt="Swagger"/>
+<img width="20" height="20" src="icons/github.png" alt="GitHub"/><img width="20" height="20" src="icons/docker.png" alt="Docker"/><img width="20" height="20" src="icons/gitlab.png" alt="GitLab"/><img width="20" height="20" src="icons/vscode.png" alt="VSCode"/><img width="20" height="20" src="icons/html.png" alt="HTML"/><img width="20" height="20" src="icons/css.png" alt="CSS3"/><img width="20" height="20" src="icons/java.png" alt="Java"/><img width="20" height="20" src="icons/c.png" alt="C"/><img width="20" height="20" src="icons/selenium.png" alt="Selenium"/><img width="20" height="20" src="icons/robot.png" alt="Robot Framework"/><img width="20" height="20" src="icons/cypress.png" alt="Cypress"/><img width="20" height="20" src="icons/capybara.png" alt="Capybara"/><img width="20" height="20" src="icons/cucumber.png" alt="Cucumber"/><img width="20" height="20" src="icons/jenkins.png" alt="Jenkins"/><img width="20" height="20" src="icons/ruby.png" alt="Ruby"/><img width="20" height="20" src="icons/postman.png" alt="Postman"/><img width="60" height="20" src="icons/JMeter.png" alt="JMeter"/><img width="20" height="20" src="icons/Swagger.png" alt="Swagger"/><img width="20" height="20" src="icons/Katalon.png" alt="Katalon"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-lourenco&layout=compact&theme=tokyonight)
 
