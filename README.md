@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sandra :portugal:
 
 - :dart: I’m currently working on becoming a global tester
-- :book: I’m currently learning Katalon and Javascript
+- :book: I’m currently learning Cypress and Javascript
 
 ### :mortar_board:Certification:
 
