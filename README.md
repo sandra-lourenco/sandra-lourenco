@@ -23,7 +23,7 @@ _ISTQB® Certified Tester Foundation Level_
 
 ### :books: Studying
 
-**WebdriverIO Beginner to Advanced E2E Framework (Web+API +DB)**
+**Cypress: Web Automation Testing from Zero to Hero**
 
 ### 👩🏻‍💻 Languages and Tools:
 
