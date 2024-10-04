@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sandra :portugal:
 
 - :dart: I’m currently working on becoming a global tester
-- :diploma: https://sandra-lourenco.github.io/cv/
+- :scroll: https://sandra-lourenco.github.io/cv/
 
 ### :mortar_board:Certification:
 
