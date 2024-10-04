@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sandra :portugal:
 
 - :dart: I’m currently working on becoming a global tester
-- :book: I’m currently learning Cypress and Javascript
+- :diploma: https://sandra-lourenco.github.io/cv/
 
 ### :mortar_board:Certification:
 
